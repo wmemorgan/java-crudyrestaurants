@@ -1,3 +1,8 @@
+-- noinspection SqlNoDataSourceInspectionForFile
+-- noinspection SqlDialectInspectionForFile
+DELETE
+FROM restaurantpayments;
+
 DELETE
 FROM payments;
 
